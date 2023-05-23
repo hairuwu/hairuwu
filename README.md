@@ -21,7 +21,7 @@
 ## Our Works
 - BIM Data Storage and Management Based on IFC (Fudan University&Huawei Company) - Received the "Outstanding Technical Achievement Award" in Huawei's Technical Cooperation Field in 2021.
 
-- (ESEC/FSE'2023 CCF-A) Junjie Shan, Shihan Dou, Yueming Wu*, Hairu Wu, and Yang Liu, “Gitor: Scalable Code Clone Detection by Building Global Sample Graph,” in Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering.
+- (ESEC/FSE'2023 CCF-A) Junjie Shan, Shihan Dou, Yueming Wu, **Hairu Wu**, and Yang Liu, “Gitor: Scalable Code Clone Detection by Building Global Sample Graph,” in Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering.
 
 <br/>
 
