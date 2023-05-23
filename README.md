@@ -10,7 +10,7 @@
 - 👨‍🎓 Got my master's degree at [Fudan University](https://www.fudan.edu.cn/en/)  
   
 
-- 🤔 Interested in big data management and computing & digital twin (BIM)  
+- 🤔 Interested in big data management and computing & digital twin ([BIM](https://www.buildingsmart.org/))  
   
 
 - 👏 Welcome to contact me！  
