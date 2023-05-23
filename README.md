@@ -23,6 +23,16 @@
 
 - (ESEC/FSE'2023 CCF-A) Junjie Shan, Shihan Dou, Yueming Wu*, Hairu Wu, and Yang Liu, “Gitor: Scalable Code Clone Detection by Building Global Sample Graph,” in Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering.
 
+<br/>
+
+
+## Award
+- National scholarship 2019.
+- Fudan University Academic First Class Scholarship 2021.
+- Outstanding Graduates of Fudan University 2023.
+
+<br/>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -78,11 +88,8 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
+ 
 <br/>  
-
-
 
 
 
